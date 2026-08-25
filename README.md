@@ -47,7 +47,7 @@ Technologies: HTML, CSS, JavaScript
 
 🔗 "view Calculator App"
 Github:https://github.com/divyasreddi/calculator-app
-LiveDemo: https://divyasreddi.github.io/calculator-app/
+LiveDemo: https://divyasrireddi.github.io/calculator-app/
 
 
 ---
